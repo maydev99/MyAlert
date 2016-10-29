@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "224234721976",
+    "firebase_url": "https://myalert-292d8.firebaseio.com",
+    "project_id": "myalert-292d8",
+    "storage_bucket": "myalert-292d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224234721976:android:c82eb01038df7620",
+        "android_client_info": {
+          "package_name": "com.droidloft.myalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224234721976-orqmb5hnau4r0v5qp6kk24eub7eeupt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOljS8U0_nh3yHU9pLsx8MgmQlinMq6eY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
