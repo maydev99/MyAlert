@@ -12,9 +12,13 @@
 
     <Button
         android:text="Alert"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
-        android:id="@+id/alertButton" />
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:elegantTextHeight="true"
+        android:id="@+id/alertButton"
+        android:background="@drawable/redbutton" />
 </RelativeLayout>
